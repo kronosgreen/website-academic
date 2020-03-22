@@ -1,7 +1,16 @@
 ---
-title: "Safety Navigator"
-date: 2019-11-03T21:58:33-05:00
-draft: false
+title: Safety Navigator
+summary: Creating travel routes based on safety using network graphs. `[GitHub]`
+tags:
+- safety
+- Neo4J
+- network graphs
+- Python
+date: "2019-11-03T21:58:33-05:00"
+[GitHub]: https://github.com/kronosgreen/Safety-Navigation
+image:
+  caption: Safety Navigation
+  focal_point: Smart
 ---
 
 As the final project for Advanced Database Development, I teamed up with Quentin Goss under the supervision of our
