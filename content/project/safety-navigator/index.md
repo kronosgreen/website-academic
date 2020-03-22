@@ -1,13 +1,13 @@
 ---
 title: Safety Navigator
-summary: Creating travel routes based on safety using network graphs. `[GitHub]`
+summary: Creating travel routes based on safety using network graphs.
 tags:
 - safety
 - Neo4J
 - network graphs
 - Python
 date: "2019-11-03T21:58:33-05:00"
-[GitHub]: https://github.com/kronosgreen/Safety-Navigation
+
 image:
   caption: Safety Navigation
   focal_point: Smart
