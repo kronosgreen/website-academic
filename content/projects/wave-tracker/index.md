@@ -37,13 +37,13 @@ background to the waves and leaving a binary image. To remove remaining noise, a
 frame, removing non-salient foreground pixels that remained after the MOG step. This leaves only the larger patches
 that can be defined as waves with greater certainty.
 
-{{< wavepic "images/thresholded" "Initial binary thresholded image of wave" />}}
+{{< figure src="images/thresholded.png" title="Initial binary thresholded image of wave" lightbox="true" >}}
 
 Rather than use the Mix-of-Gaussian, we used a binary thresholding function for less computational cost with similar
 results. It is resized after instead of before this step to ensure the foam doesn't get interpolated out. The
 morphology step is kept for de-noising leaving a fairly accurate representation of the wave.
 
-{{< wavepic "images/morphology" "Binary image with applied morphology function" />}}
+{{< figure src="images/morphologypng" title="Binary image with applied morphology function" lightbox="true" >}}
 
 ### Detection
 
@@ -86,7 +86,7 @@ recalculated with the new centroid. An orthogonal line from the first point (the
 reciprocal of the slope, is defined as well as the point at which it intersects with the second line (the current frame).
 The old centroid and this new point are used to calculate the Euclidean distance between the two lines.
 
-{{< wavepic "images/lines" "Lines of waves used for distance calculations" />}}
+{{< figure src="images/lines.png" title="Lines of waves used for distance calculations" lightbox="true" >}}
 
 <small style="text-align: center;">
 
@@ -136,4 +136,4 @@ period. Once there is more than two values in this array, the average difference
 the period. The reciprocal of this value is calculated and represents the temporal frequency of the waves. Both of
 these values are displayed in the main statistics text in the top left corner of the screen.
 
-{{< wavepic "images/all_stats_calculated" "Final display with all calculated properties" />}}
+{{< figure src="images/all_stats_calculated.png" title="Final display with all calculated properties" lightbox="true" >}}

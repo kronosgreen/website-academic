@@ -28,7 +28,7 @@ coordinates. Using Python again, the crash data was iterated over to map out the
 node in the Neo4J database (North-South road and East-West road were included in node's name), adding the crash value
 as an additional node property.
 
-{{< wavepic "images/Neo4j-map" "Neo4J - OSM represented as a graph database" />}}
+{{< figure src="images/Neo4j-map.png" title="Neo4J - OSM represented as a graph database" lightbox="true" >}}
 
 ## Safety Query
 
@@ -47,12 +47,12 @@ the two. The crash data was also used to add a heat map to show where and how se
 serves to show how optimizing for safety can affect the route provided. Since the navigation only works for the
 intersections in the database, a search suggestion list was added.
 
-{{< wavepic "images/suggest" "Intersection suggestion for easy search" />}}
+{{< figure src="images/suggest.png" title="Intersection suggestion for easy search" lightbox="true" >}}
 ![Safety Navigator interface](images/route-demo.png)
 
 The JavaScript in the web interface connects to the database instance running on my computer (at least when demoing the project)
 and sends the queries, parses the response, and displays the route given by creating a line with the coordinates of each
-of the intersection in the selected path. 
+of the intersection in the selected path.
 
 ## Future Work
 
