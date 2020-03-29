@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: In Florida Conference on Recent Advances in Robotics 2018
 publication_short: In FCRAR 2018
 
-abstract: A
+abstract: Autonomous vehicle (AV) technology will have a massive impact on the transportation infrastructure [1]. Intelligent transportation systems are going to be available as vehicle (V2V) and vehicle to infrastructure (V2I) communication become available together with AV technology. In the intelligent transportation systems, the communication among AVs and between AV networks and the infrastructure will be critical. Therefore, clustering solutions must be developed for AV fleets. In this paper, we present the clustering protocol, MHopCAV, the Multi-Hop Clustering Algorithm for Autonomous Vehicle Networks. MHopCAV uses the k-hop clustering algorithm [2], which is designed for dynamic, wireless networks, and adapts it for the clustering of nodes in ACV networks. The k-hop Clustering Algorithm uses a set of four rules to distribute a cluster based on weights. There is a minimum and maximum weight that are defined, "MIN" and "MAX" respectively, as well as the weight of each node, "wn". The cluster head is the node with the MAX weight...
 
 # Summary. An optional shortened abstract.
 summary: Simulating a multihop clustering algorithm for connected vehicles.
