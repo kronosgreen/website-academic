@@ -32,8 +32,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: http://mae.ucf.edu/fcrar2018/wp-content/uploads/2018/05/19_FPU-Autonomous-Medrano-Berumen-Akbas-cr.pdf
 url_code: '#'
 url_dataset: '#'
