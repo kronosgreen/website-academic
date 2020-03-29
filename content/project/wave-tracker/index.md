@@ -6,9 +6,9 @@ tags:
 - Python
 date: "2019-07-21T16:52:19-04:00"
 
-  image:
-    caption: Wave Tracking
-    focal_point: Smart
+image:
+  caption: Wave Tracking
+  focal_point: Smart
 ---
 
 For an Advanced Computer Vision final project, my partner, Igor, and I extended a wave tracking library developed by
