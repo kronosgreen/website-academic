@@ -35,10 +35,7 @@ links:
 - name: Springer
   url: https://link.springer.com/chapter/10.1007%2F978-3-030-42058-1_40
 url_pdf: ''
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
+url_code: 'https://github.com/kronosgreen/MATLAB-AV-Verification'
 url_slides: ''
 url_source: '#'
 url_video: '#'

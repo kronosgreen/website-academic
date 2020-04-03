@@ -33,9 +33,7 @@ featured: true
 
 links:
 url_pdf: http://mae.ucf.edu/fcrar2018/wp-content/uploads/2018/05/19_FPU-Autonomous-Medrano-Berumen-Akbas-cr.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: 'https://github.com/kronosgreen/khopca-inet-omnet'
 url_project: ''
 url_slides: ''
 url_source: '#'
