@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "www.floridapoly.edu"
   location = "Lakeland, Florida"
   date_start = "2018-08-20"
-  date_end = ""
+  date_end = "2020-04-30"
   description = """
   Working with the Advanced Mobility Institute at Florida Polytechnic University, designing a validation & verification methodology for autonomous vehicle decision making.
   """

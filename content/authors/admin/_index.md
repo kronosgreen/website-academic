@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Assistant
+role: Programmer
 
 # Organizations/Affiliations
 organizations:
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a graduate student at Florida Polytechnic University currently finishing my thesis: Methodology for Autonomous Vehicle Validation & Verification in Simulation (MAVVVS). I also work part-time at Universal Orlando Resort as a simulation and data visualization programmer.
+I recently completed my Master's at Florida Polytechnic University where I did research with the Advanced Mobility Institute, this being the subject of my thesis: Methodology for Autonomous Vehicle Validation & Verification in Simulation (MAVVVS). I also worked as a data visualization programmer for Universal Studios Orlando while studying.
 
-It is my goal to take the technical proficiency I've developed studying Computer Science and work on solving problems in the economic world in these interesting times we live in. 
+It is my goal to take the technical proficiency I've developed studying Computer Science and use them towards solving today's problems with a focus on economic justice and ecology. 
