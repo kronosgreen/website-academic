@@ -17,15 +17,26 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Developer"
+  company = "Universal Orlando Resort"
+  company_url = ""
+  location = "Orlando, Florida"
+  date_start = "2021-08-01"
+  date_end = ""
+  description = """Designing and programming ride simulations in AnyLogic using Java. Data programming and visualization using R and Python library, bokeh.
+  """
+
 [[experience]]
   title = "Software Engineer"
   company = "A Plus Environmental Restoration"
   company_url = "www.aplusenvironmentalrestoration.com"
   location = "Arcadia, Florida"
   date_start = "2020-10-20"
-  date_end = ""
+  date_end = "2021-06-18"
   description = """
-  Work on front-end and back-end development as well as designing a verification pipeline for an autonomous system.
+  Front-end and back-end development as well as designing a verification pipeline for an autonomous system.
   """
 
 [[experience]]
